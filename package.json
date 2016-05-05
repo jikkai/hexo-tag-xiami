@@ -1,0 +1,25 @@
+{
+  "name": "hexo-tag-xiami",
+  "version": "0.0.1",
+  "description": "A hexo tag for xiami widget.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jikkai/hexo-tag-xiami.git"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "xiami",
+    "music"
+  ],
+  "author": "白熱大先生 <sonne@asaki.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jikkai/hexo-tag-xiami/issues"
+  },
+  "homepage": "https://github.com/jikkai/hexo-tag-xiami#readme"
+}
